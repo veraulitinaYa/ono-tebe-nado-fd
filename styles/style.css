@@ -288,7 +288,7 @@ background-position: center;
 .about_section_settings {
   margin: 120px 24px 180px 24px;
   display: grid;
-  column-gap: 72px;
+  column-gap: 25px;
   grid-template-columns: 334px 1fr;
 }
 
