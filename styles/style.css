@@ -156,7 +156,6 @@ footer {
 
 .cover_description_header {
   font-family: Raleway;
-  font-size: 22;
   font-weight: 300;
   font-size: 22px;
   line-height: 127%;
@@ -168,7 +167,6 @@ footer {
 .cover_bet_button {
 
   font-family: Raleway;
-  font-size: 22px;
   font-weight: 300;
   font-size: 22px;
   line-height: 127%;
@@ -184,7 +182,7 @@ footer {
 /* ниже - стили классов для секции лотов */
 
 
-.lots{
+.lots {
  margin: 180px 24px 120px 24px;
 }
 
