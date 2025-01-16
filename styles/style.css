@@ -127,7 +127,6 @@ footer {
 
 .cover_description {
   position: relative;
-  z-index: 1;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -299,7 +298,7 @@ background-position: center;
   text-transform: uppercase;
 }
 
-.text_container_settings{
+.text_container_settings {
   display: flex;
   flex-direction:column;
   gap: 24px;
@@ -333,7 +332,7 @@ text-align: center;
   text-underline-offset: 5px;
 }
 
-.footer_menu_link_active{
+.footer_menu_link_active {
   text-decoration: auto;
 }
 
