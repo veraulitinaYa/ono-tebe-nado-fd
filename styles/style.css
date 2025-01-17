@@ -233,15 +233,15 @@ background-position: center;
   z-index: 0;
 }
 
-.lot_article_film-rezhissera {
+.film {
   background-image: url(../images/card-lot-01.jpg);
 }
 
-.lot_article_kniga-skuchniy-den {
+.book {
   background-image: url(../images/card-lot-02.jpg);
 }
 
-.lot_article_kartina-syna {
+.picture {
   background-image: url(../images/card-lot-03.jpg);
 }
 
